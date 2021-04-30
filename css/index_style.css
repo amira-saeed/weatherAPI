@@ -1,0 +1,20 @@
+.form-style
+{
+ color: rgb(51, 98, 141);
+ font-weight: bold;
+}
+.form-style .btn
+{
+  background-color: rgb(51, 98, 141);
+  color:#fff;
+}
+.table-head
+{
+  color: rgb(51, 98, 141);
+}
+
+tbody
+{
+  color: rgb(34, 33, 34);
+  
+}
